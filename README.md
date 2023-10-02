@@ -14,35 +14,33 @@ npm start
 # Normal User 
 As a user, you can perform the following actions in the application:
 
-# Home Page: View the home page of the application.
+ Home Page: View the home page of the application.
 
-# Given Test: View and take tests in various languages based on your selection.
+ Given Test: View and take tests in various languages based on your selection.
 
-# Leaderboard: Access the leaderboard to see how your performance compares to other users.
+Leaderboard: Access the leaderboard to see how your performance compares to other users.
 
-# Profile: View your user information and reset your learning progress.
+Profile: View your user information and reset your learning progress.
+ Logout: Log out of your account.
 
-# Logout: Log out of your account.
-
-# Language Selection
+ Language Selection
 Users can choose a language to take tests in.
 
-# Past Tests
+ Past Tests
 Users can view their history of previously taken tests in the "Given Test" section.
-
-# Leaderboard
+ Leaderboard
 Users can view a leaderboard that displays the performance of all users.
 
-# Profile
+Profile
 Users can view their user information and reset their learning progress.
 
 ## Admin
 # Admin Features
 As an admin, you have additional privileges in the application:
 
-# Add New Language: Add new languages to the application.
+ Add New Language: Add new languages to the application.
 
-# Add New Exercise: Create new exercises for a selected language.
+ Add New Exercise: Create new exercises for a selected language.
 
 
 ![as1](https://github.com/niteshkumar257/assignment_emittr/assets/78474492/f1cfaa64-749c-4b0b-9285-0f5f070c084c)[Uploading as1.png…]()
