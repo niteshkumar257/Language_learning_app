@@ -1,14 +1,14 @@
 Table of Contents
 
 ## Front-End Setup
-Installation
-npm install
-npm run dev
+
+# npm install
+# npm run dev
 
 
 ## Back-End Setup
-npm install 
-npm start
+# npm install 
+# npm start
 
 ## Types of Users
 # Normal User 
