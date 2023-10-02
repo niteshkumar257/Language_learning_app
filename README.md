@@ -43,6 +43,8 @@ As an admin, you have additional privileges in the application:
  Add New Exercise: Create new exercises for a selected language.
 
 
+<img width="957" alt="image" src="https://github.com/niteshkumar257/assignment_emittr/assets/78474492/48c880f8-1757-4b67-adfe-a3db4a4de803">
+
 ![as1](https://github.com/niteshkumar257/assignment_emittr/assets/78474492/f1cfaa64-749c-4b0b-9285-0f5f070c084c)[Uploading as1.png…]()
 ![as2](https://github.com/niteshkumar257/assignment_emittr/assets/78474492/4db00f18-0aa3-4a54-9baa-cf1a4ab297f5)
 ![as3](https://github.com/niteshkumar257/assignment_emittr/assets/78474492/537d7270-730b-4147-9dc6-17620a1f06ba)
