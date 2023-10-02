@@ -10,6 +10,13 @@ Table of Contents
 1. npm install 
 2. npm start
 
+## Demo User
+Admin 
+email: niteshreddy257@gmail.com
+password:123456
+
+user:niteshreddy27@gmail.com
+password :123456
 ## Types of Users
 # Normal User 
 As a user, you can perform the following actions in the application:
