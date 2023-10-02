@@ -10,6 +10,11 @@ Table of Contents
 1. npm install 
 2. npm start
 
+## Add this key's to .env file
+MONOGO_URL=mongodb+srv://niteshreddy257:ms9E2Fvs2wGsFGik@cluster0.arthmpx.mongodb.net/
+JWT="niteshak"
+PORT=9878
+
 ## Demo User
 Admin 
 email: niteshreddy257@gmail.com
